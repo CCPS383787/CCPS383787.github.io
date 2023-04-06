@@ -3,7 +3,7 @@ p {
   line-height: 20px;
 }
 ul {
-  list-style: square;
+  list-style: upper-roman;
   font-family: Helvetica;
   font-style: italic;
 }
